@@ -10,6 +10,7 @@
     top: 0;
     width: 90%;
     background-color: #262420;
+    z-index: 10;
 }
 .nav-sec-1{
     width: 55%;
@@ -38,9 +39,10 @@
     border: 1px solid #bdfd6d ;
     padding: 0.5rem 1rem;
     border-radius: 1.5rem;
+    background-color: #262420;
     transition: background-color 0.5s ease-in-out;
     &:hover{
-        color: #262420;
+        color: #262420 !important; 
         background-color: #bdfd6d;
     }
 }
