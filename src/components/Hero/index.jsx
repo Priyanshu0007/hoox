@@ -24,20 +24,20 @@ const Hero = () => {
                 <div className="transparent-gradient"></div>
                 <div className="track">
                     <div className="content">&nbsp;
-                        <img src="/src/assets/1.png"/>
-                        <img src="/src/assets/2.png"/>
-                        <img src="/src/assets/3.png"/>
-                        <img src="/src/assets/4.png"/>
-                        <img src="/src/assets/5.png"/>
-                        <img src="/src/assets/6.png"/>
-                        <img src="/src/assets/7.png"/>
-                        <img src="/src/assets/1.png"/>
-                        <img src="/src/assets/2.png"/>
-                        <img src="/src/assets/3.png"/>
-                        <img src="/src/assets/4.png"/>
-                        <img src="/src/assets/5.png"/>
-                        <img src="/src/assets/6.png"/>
-                        <img src="/src/assets/7.png"/>
+                        <img src="/public/assets/1.png"/>
+                        <img src="/public/assets/2.png"/>
+                        <img src="/public/assets/3.png"/>
+                        <img src="/public/assets/4.png"/>
+                        <img src="/public/assets/5.png"/>
+                        <img src="/public/assets/6.png"/>
+                        <img src="/public/assets/7.png"/>
+                        <img src="/public/assets/1.png"/>
+                        <img src="/public/assets/2.png"/>
+                        <img src="/public/assets/3.png"/>
+                        <img src="/public/assets/4.png"/>
+                        <img src="/public/assets/5.png"/>
+                        <img src="/public/assets/6.png"/>
+                        <img src="/public/assets/7.png"/>
                     </div>
                 </div>
             </div>

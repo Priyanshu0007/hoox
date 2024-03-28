@@ -1,0 +1,43 @@
+.fourth{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    gap: 2rem;
+}
+.content{
+    width: 50%;
+    padding-bottom: 4rem;
+    h4{
+        color: #bdfd6d;
+        font-size: 1.25rem;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+    }
+    h1{
+        font-size: 3.5rem;
+        color: white;
+        margin: 0;
+    }
+    h3{
+        font-size: 1.25rem;
+        color: white;
+        font-weight: 400;
+    }
+    p{
+        font-size: 1rem;
+        color: white;
+        font-weight: 400;
+    }
+}
+.nik{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    img{
+        width: 500px;
+    }
+}
