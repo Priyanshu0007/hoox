@@ -1,0 +1,49 @@
+.five{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.contents{
+    p{
+        width: 100%;
+        text-align: center;
+        color: #89c63d;
+        font-weight: 600;
+        font-size: 1.2rem;
+    }
+    h1{
+        width: 65%;
+        margin: 0 auto;
+        color: #262420;
+        text-align: center;
+        font-size: 4rem;
+    }
+}
+.early{
+    width: 100%;
+    text-align: center;
+    color: #262420;
+}
+.tiles{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    width: 80%;
+    margin: 0 auto;
+    gap: 2.5rem;
+    
+}
+.tile{
+    background-color: #262420;
+    padding: 2rem;
+    margin: 3rem 0;
+    border-radius: 1rem;
+}
+.percent{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.points{
+    font-weight: 500;
+}
