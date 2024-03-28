@@ -74,7 +74,7 @@
     position: absolute;
     white-space: nowrap;
     will-change: transform;
-    animation: marquee 32s linear infinite;
+    animation: marquee 20s linear infinite;
   }
   .content{
 
@@ -84,8 +84,8 @@
     }
   }
   @keyframes marquee {
-    from { transform: translateX(0); }
-    to { transform: translateX(-50%); }
+    from { transform: translateX(-20%); }
+    to { transform: translateX(-70%); }
   }
 
 .transparent-gradient{
