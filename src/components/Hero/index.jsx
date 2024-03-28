@@ -7,7 +7,7 @@ const Hero = () => {
             <h1>We build landing pages that</h1>
                 <div className="scribble">
                     <h1 className="scribble-text">unlock</h1>
-                    <img src="/src/assets/scribble.png"/>
+                    <img src="/public/assets/scribble.png"/>
                 </div>
             </span>
                 
