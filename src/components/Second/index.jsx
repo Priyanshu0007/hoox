@@ -26,8 +26,8 @@ const Second = () => {
         <div className="second-sec-2">
             <h2>4 Reasons Why You Should Use HOOX to Build Landing Pages</h2>
             <div className="second-sec-grid">
-                {arr.map((ar)=>(
-                    <div key={arr.id} className="second-box">
+                {arr.map((ar,id)=>(
+                    <div key={id} className="second-box">
                         <div className="second-id">{ar.id}</div>
                         <div>
                             <div className="second-heading">{ar.heading}</div>

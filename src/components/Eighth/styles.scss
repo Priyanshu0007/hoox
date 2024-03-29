@@ -1,0 +1,91 @@
+.eigth{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    margin: 4rem auto;
+    gap: 3rem;
+}
+.eigth-sec-1{
+    flex: 1;
+    h3{
+        font-size: 1.25rem;
+        color: #bdfd6d;
+        font-weight: 400;
+        margin: 0;
+    }
+    h1{
+        font-size: 4rem;
+        font-weight: 600;
+        margin-top: 0;
+        line-height: 5rem;
+    }
+    h2{
+        font-size: 1.1rem;
+        font-weight: 550;
+    }
+    p{  
+        margin-top: 3rem;
+        font-size: 0.9rem;
+        font-weight: 500;
+    }
+}
+.eigth-sec-2{
+    flex: 1;
+    background-color: #bdfd6d;
+    color: #262420;
+    padding: 1rem 1.75rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    h4{
+        font-size: 1.25rem;
+    }
+    h6{
+        font-size: 1.1rem;
+        margin: 1rem 0;
+    }
+}
+.price{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    span{
+        font-weight: 600;
+        margin: 0;
+    }
+    h5{
+        font-weight: 400;
+        font-size: 1rem;     
+        margin: 0;   
+    }
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #262420;
+    
+}
+.eight-point-box{
+    flex: 1;
+    display: flex;
+    gap: 2rem;
+}
+.eight-point-left{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.eight-btn{
+    cursor: pointer;
+    width: 90%;
+    background-color: #262420;
+    border-radius: 3rem;
+    font-size: 1rem;
+    padding: 0.75rem 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+    text-align: center;
+    transition: background-color 0.5s ease-in-out;
+    &:hover{
+        background-color: #656462;
+    }
+}

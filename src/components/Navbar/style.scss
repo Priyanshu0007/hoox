@@ -8,7 +8,7 @@
     align-items: center;
     position: fixed;
     top: 0;
-    width: 90%;
+    width: 100%;
     background-color: #262420;
     z-index: 10;
 }
@@ -22,6 +22,7 @@
     width: 45%;
     display: flex;
     justify-content: space-between;
+    padding-right: 6rem;
     font-family: "Poppins", sans-serif;
     align-items: center;
     font-weight: 400;
