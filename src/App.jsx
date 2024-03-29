@@ -1,5 +1,6 @@
 import Eighth from "./components/Eighth"
 import FAQ from "./components/FAQ"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Nineth from "./components/Nineth"
@@ -27,6 +28,7 @@ function App() {
       <Nineth/>
       <Tenth/>
       <FAQ/>
+      <Footer/>
     </>
   )
 }
