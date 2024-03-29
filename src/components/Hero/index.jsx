@@ -7,7 +7,7 @@ const Hero = () => {
             <h1>We build landing pages that</h1>
                 <div className="scribble">
                     <h1 className="scribble-text">unlock</h1>
-                    <img src="/public/scribble.png"/>
+                    <img src="/scribble.png"/>
                 </div>
             </span>
                 
@@ -24,20 +24,20 @@ const Hero = () => {
                 <div className="transparent-gradient"></div>
                 <div className="track">
                     <div className="content">&nbsp;
-                        <img src="/public/1.png"/>
-                        <img src="/public/2.png"/>
-                        <img src="/public/3.png"/>
-                        <img src="/public/4.png"/>
-                        <img src="/public/5.png"/>
-                        <img src="/public/6.png"/>
-                        <img src="/public/7.png"/>
-                        <img src="/public/1.png"/>
-                        <img src="/public/2.png"/>
-                        <img src="/public/3.png"/>
-                        <img src="/public/4.png"/>
-                        <img src="/public/5.png"/>
-                        <img src="/public/6.png"/>
-                        <img src="/public/7.png"/>
+                        <img src="/1.png"/>
+                        <img src="/2.png"/>
+                        <img src="/3.png"/>
+                        <img src="/4.png"/>
+                        <img src="/5.png"/>
+                        <img src="/6.png"/>
+                        <img src="/7.png"/>
+                        <img src="/1.png"/>
+                        <img src="/2.png"/>
+                        <img src="/3.png"/>
+                        <img src="/4.png"/>
+                        <img src="/5.png"/>
+                        <img src="/6.png"/>
+                        <img src="/7.png"/>
                     </div>
                 </div>
             </div>

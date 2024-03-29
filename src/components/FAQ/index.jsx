@@ -27,13 +27,13 @@ const FAQ = () => {
             <h2>Ready to make your ads more efficient?</h2>
             <h4>See why companies like Jim Beam Whiskey, Milk Bar, Caraway, JUDY, Feastables, Poo~Pourri, Glamnetic and more, build landing pages with HOOX.</h4>
             <div className="card-build-btn">Build my page</div>
-            <img src="/public/card1.png"/>
+            <img src="/card1.png"/>
           </div>
           <div className="right-card">
             <h3>Not ready to buy yet? Book a call with us 🤙</h3>
             <h5>Schedule time to discuss how HOOX could supercharge your marketing needs.</h5>
             <div className="card-chat-btn">Let's chat</div>
-            <img src="/public/card2.png"/>
+            <img src="/card2.png"/>
           </div>
         </div>
     </div>

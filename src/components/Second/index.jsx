@@ -11,16 +11,16 @@ const Second = () => {
         <div className="second-sec-1">
             <h1>HOOX is trusted by</h1>
             <div className="second-sec-log">
-                <img src="/public/lemme.svg"/>
-                <img src="/public/feastables.svg"/>
-                <img src="/public/caraway.svg"/>
-                <img src="/public/glamnetic.svg"/>
+                <img src="/lemme.svg"/>
+                <img src="/feastables.svg"/>
+                <img src="/caraway.svg"/>
+                <img src="/glamnetic.svg"/>
             </div>
             <div className="second-sec-log">
-                <img src="/public/bearaby.svg"/>
-                <img src="/public/cadence.svg"/>
-                <img src="/public/lamborgini.png"/>
-                <img src="/public/roman.svg"/>
+                <img src="/bearaby.svg"/>
+                <img src="/cadence.svg"/>
+                <img src="/lamborgini.png"/>
+                <img src="/roman.svg"/>
             </div>
         </div>
         <div className="second-sec-2">

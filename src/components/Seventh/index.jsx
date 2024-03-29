@@ -10,7 +10,7 @@ const Seventh = () => {
             <h1>Case studies</h1>
         </div>
         <div className="case-study">
-            <div><img src="/public/caraway.png"/></div>
+            <div><img src="/caraway.png"/></div>
             <div className="case-study-content">
                 <h2>Caraway</h2>
                 <h4>As a new brand in a competitive space, Caraway hired HOOX to create landing pages for paid traffic coming from Google, Facebook, and its affiliate partners.</h4>
