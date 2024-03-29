@@ -17,7 +17,7 @@ const Tenth = () => {
                     recommend working with the
                     HOOX team."</p>
                 <div className="identity">
-                    <img src="/public/assets/Courtney.png"/>
+                    <img src="/public/Courtney.png"/>
                     <div className="identity-details">
                         <h4>Courtney Toll</h4>
                         <h5>CEO of Nori</h5>
@@ -30,7 +30,7 @@ const Tenth = () => {
                     CPA by ~30%, and perfectly
                     told the Caraway story.""</p>
                 <div className="identity">
-                    <img src="/public/assets/jordan.png"/>
+                    <img src="/public/jordan.png"/>
                     <div className="identity-details">
                         <h4>Jordan Nathan</h4>
                         <h5>Founder of Caraway</h5>
@@ -48,7 +48,7 @@ const Tenth = () => {
                     brand. Also, their turnaround
                     times are out of this world."</p>
                 <div className="identity">
-                    <img src="/public/assets/stephanie.png"/>
+                    <img src="/public/stephanie.png"/>
                     <div className="identity-details">
                         <h4>Stephanie Hon</h4>
                         <h5>Founder of Cadence</h5>
